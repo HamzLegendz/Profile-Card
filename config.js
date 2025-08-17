@@ -9,7 +9,7 @@ const config = {
         profile: {
             personal: {
                 profile_url: '/profile_img.jpg',
-                name: 'Randy Yuan Kurnianto',
+                name: 'Rynn',
                 is_verified: true,
                 pronunciation: null,
                 pronouns: 'He/She?',
