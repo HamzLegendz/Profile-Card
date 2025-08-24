@@ -9,21 +9,21 @@ const config = {
         profile: {
             personal: {
                 profile_url: '/profile_img.jpg',
-                name: 'Rynn',
+                name: 'Skywalker',
                 is_verified: true,
                 pronunciation: null,
-                pronouns: 'He/She?',
-                location: 'Sragen, Jawa Tengah',
+                pronouns: 'He/Said?',
+                location: 'Batam, Kepulauan Riau',
                 about: 'Just a newbie exploring the world of coding.'
             },
             professional: {
                 job_title: 'Web Developer',
-                company: 'NekoLabs.'
+                company: 'VisualX'
             },
             projects: [
                 {
                     thumbnail: null,
-                    name: 'Rynn UI (Open Source)',
+                    name: 'Columbina-Base-Bot-Telegram',
                     desc: 'A simple and easy-to-use API documentation interface built with Express.js.',
                     link: 'https://github.com/rynn-k/Rynn-UI'
                 },
@@ -55,12 +55,12 @@ const config = {
                 {
                     name: 'Instagram',
                     is_verified: true,
-                    link: 'https://instagram.com/ran.dyyn'
+                    link: 'https://instagram.com/hamz.010__'
                 },
                 {
                     name: 'Telegram',
                     is_verified: true,
-                    link: 'https://t.me/rynnajahh'
+                    link: 'https://t.me/skyvoidwalker'
                 }
             ],
             interests: ['Coding', 'Music', 'Gaming', 'Anime']
